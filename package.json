@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-express-demo",
+  "version": "1.0.0",
+  "description": "Restfull API's build using NodeJS and Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshayshinde2505/NodeJS-Express-Restfull-API.git"
+  },
+  "author": "Akshay Shinde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshayshinde2505/NodeJS-Express-Restfull-API/issues"
+  },
+  "homepage": "https://github.com/akshayshinde2505/NodeJS-Express-Restfull-API#readme",
+  "dependencies": {
+    "@hapi/joi": "^15.1.0",
+    "express": "^4.17.1"
+  }
+}
